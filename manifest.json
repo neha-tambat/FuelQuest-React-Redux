@@ -1,0 +1,9 @@
+{
+  "name": "QS_ReportBuilder",
+  "platform": "HTML",
+  "version": "1.0",
+  "author": "rajendrak",
+  "description": "Report Builder utility",
+  "copyright": "Quantum Spatial Inc.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
